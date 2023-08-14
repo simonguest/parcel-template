@@ -1,0 +1,13 @@
+name: parcel-template
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2023.7.22=hf0a4a13_0
+  - icu=72.1=he12128b_0
+  - libcxx=16.0.6=h4653b0c_0
+  - libuv=1.44.2=hb547adb_1
+  - libzlib=1.2.13=h53f4e23_5
+  - nodejs=18.16.1=ha2ed473_0
+  - openssl=3.1.2=h53f4e23_0
+  - zlib=1.2.13=h53f4e23_5
